@@ -5,10 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guizado__/)
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=devGuiIherme&show_icons=true&theme=dracula)
+<img align="right" alt="Guilherme-animacao" src="https://cdn.discordapp.com/attachments/874487227894358056/1084181998064631978/picasion.com_5e72422fdfd0cfa3bdd2c07907f466da.gif" width='205px'>
 
 <br>
 
-## 💻 Tecnologias que estou aprendendo: 
+## 💻 Tecnologias que uso no meu dia 
 <br>
 <div style="display inline-block">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
