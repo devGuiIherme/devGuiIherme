@@ -22,3 +22,5 @@
 <br>
 
 ### Em busca de aprendizado, busco desenvolver minhas habilidades em programação!
+
+![Snake animation](https://github.com/devGuiIherme/devGuiIherme/blob/output/github-contribution-grid-snake.svg)
