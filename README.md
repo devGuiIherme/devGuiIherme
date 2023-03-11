@@ -9,7 +9,7 @@
 
 <br>
 
-## 💻 Tecnologias que uso no meu dia 
+## 💻 Tecnologias que estou aprendendo:
 <br>
 <div style="display inline-block">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
